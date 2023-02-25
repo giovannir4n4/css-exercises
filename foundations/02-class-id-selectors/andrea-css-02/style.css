@@ -1,0 +1,19 @@
+p {
+    background-color: pink;
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+#elemento {
+    color: blue;
+    font-size: 36px;
+}
+
+.sfiziosa {
+    font-size: 24px;
+}
+
+#daniela {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
