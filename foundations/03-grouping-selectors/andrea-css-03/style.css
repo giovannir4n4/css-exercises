@@ -1,0 +1,13 @@
+.butt {
+    background-color: black;
+    color: white;
+}
+
+.tits {
+    background-color: yellow;
+}
+
+.butt, .tits {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
